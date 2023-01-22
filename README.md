@@ -1,1 +1,1 @@
-# Workshops- javascript
+# Workshops- javascript - grundkurs
